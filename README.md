@@ -76,40 +76,14 @@ Chaque projet est documenté dans un dossier dédié avec son propre README prof
 
 ## 📊 Aperçu visuel de mes compétences
 
-### 🐍 Jupyter Notebook
-<div style="background:#ddd; border-radius:5px; width:300px;">
-  <div style="background:#3776AB; width:90%; padding:6px 0; border-radius:5px; text-align:center; color:white;">
-    90%
-  </div>
-</div>
 
-### 🛢️ SQL
-<div style="background:#ddd; border-radius:5px; width:300px;">
-  <div style="background:#336791; width:80%; padding:6px 0; border-radius:5px; text-align:center; color:white;">
-    80%
-  </div>
-</div>
-
-### 📊 Power BI
-<div style="background:#ddd; border-radius:5px; width:300px;">
-  <div style="background:#F2C811; width:95%; padding:6px 0; border-radius:5px; text-align:center; color:black;">
-    95%
-  </div>
-</div>
-
-### 🤖 Machine Learning
-<div style="background:#ddd; border-radius:5px; width:300px;">
-  <div style="background:#0A7EB5; width:70%; padding:6px 0; border-radius:5px; text-align:center; color:white;">
-    70%
-  </div>
-</div>
-
-### 📈 Statistiques
-<div style="background:#ddd; border-radius:5px; width:300px;">
-  <div style="background:#4B8BBE; width:85%; padding:6px 0; border-radius:5px; text-align:center; color:white;">
-    85%
-  </div>
-</div>
+| Compétence        | Niveau |
+|------------------|--------|
+| 🐍 Jupyter Notebook | ⭐⭐⭐⭐⭐ 90% |
+| 🛢️ SQL              | ⭐⭐⭐⭐☆ 80% |
+| 📊 Power BI         | ⭐⭐⭐⭐⭐ 95% |
+| 🤖 Machine Learning | ⭐⭐⭐☆☆ 70% |
+| 📈 Statistiques     | ⭐⭐⭐⭐☆ 85% |
 
 
 ---
