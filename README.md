@@ -65,12 +65,12 @@ Chaque projet est documenté dans un dossier dédié avec son propre README prof
 ### 🗂️ **Projets Power BI**
 - 📊 [**P7 — Dashboard de suivi de projets**](./P7/README.md)  
 - 💧 [**P10 — Étude mondiale sur l’eau potable**](./P10/README.md)
+- 🧾 [**P13 — Portfolio professionnel**](./P13/README.md)
 
 ### 🗂️ **Autres projets**
 - 🚀 [**P1 — Mise en route formation**](./P1/README.md)  
 - 🛍️ [**P2 — Analyse des ventes e-commerce**](./P2/README.md)  
 - ⚖️ [**P8 — Indicateurs égalité F/H**](./P8/README.md)  
-- 🧾 [**P13 — Portfolio professionnel**](./P13/README.md)
 
 ---
 
