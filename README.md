@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="David Dufour – Data Analyst" width="900">
-</p>
-
 ---
 
 <h1 align="center">💼 David Dufour — Data Analyst</h1>
