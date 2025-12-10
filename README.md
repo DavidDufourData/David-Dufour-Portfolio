@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_david_dufour.png" alt="David Dufour – Data Analyst" width="900">
+  <img src="banner.png" alt="David Dufour – Data Analyst" width="900">
 </p>
 
 ---
