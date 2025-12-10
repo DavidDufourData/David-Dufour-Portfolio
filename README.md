@@ -60,7 +60,7 @@ Chaque projet est documenté dans un dossier dédié avec son propre README prof
 
 ### 🗂️ Projets SQL
 - 🛠️ [P3 — Requetez une base de donnees avec SQL](https://github.com/DavidDufourData/Projet-03-Requetez-une-base-de-donnees-avec-SQL/blob/main/README.md)
-- 🏡 [P5 — Creez et utilisez une base de donnees immobiliere avec SQL](https://github.com/DavidDufourData/Projet-05-Creez-et-utilisez-une-base-de-donnees-immobilere-avec-SQL/blob/main/README.md)
+- 🏡 [P5 — Creez et utilisez une base de donnees immobiliere avec SQL](https://github.com/DavidDufourData/Projet-05-Creez-et-utilisez-une-base-de-donnees-immobiliere-avec-SQL/blob/main/README.md)
 
 ### 🗂️ Projets Power BI
 - 📊 [P7 — Creez un tableau de bord dynamique avec Power BI](https://github.com/DavidDufourData/Projet-07-Creez-un-tableau-de-bord-dynamique-avec-Power-BI/blob/main/README.md)
