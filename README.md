@@ -70,7 +70,7 @@ Chaque projet est documenté dans un dossier dédié avec son propre README prof
 ### 🗂️ Autres projets
 - 🚀 [P1 — Prenez en main votre formation](https://github.com/DavidDufourData/Projet-1-Prenez-en-main-votre-formation-de-Data-Analyst/blob/main/README.md)
 - 🛍️ [P2 — Analysez les ventes d-un e-commerce](https://github.com/DavidDufourData/Projet-2-Analyse-des-ventes-d-un-e-commerce/blob/main/README.md)
-- ⚖️ [P8 — Analysez des indicateurs de l-egalite femmes hommes](https://github.com/DavidDufourData/Projet-8-Analysez-des-indicateurs-de-l-egalite-femmes-hommes/blob/main/README.md)
+- ⚖️ [P8 — Analysez des indicateurs de l-egalite femmes hommes](https://github.com/DavidDufourData/Projet-8-Analyse-des-indicateurs-de-l-egalite-femmes-hommes/blob/main/README.md)
 
 ---
 
