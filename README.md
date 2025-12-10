@@ -52,25 +52,25 @@ J’allie aujourd’hui :
 Chaque projet est documenté dans un dossier dédié avec son propre README professionnel.
 
 ### 🗂️ Projets Python / Statistiques
-- 🔬 [P4 — Realisez une etude de sante publique avec Python](https://github.com/DavidDufourData/Projet-04-Realisez-une-etude-de-sante-publique-avec-Python/blob/main/README.md)
-- 🏪 [P6 — Optimisez la gestion des donnees d-une boutique](https://github.com/DavidDufourData/Projet-06-Optimisez-la-gestion-des-donnees-d-une-boutique/blob/main/README.md)
-- 📚 [P9 — Analysez les ventes d-une librairie](https://github.com/DavidDufourData/Projet-09-Analysez-les-ventes-d-une-librairie/blob/main/README.md)
+- 🔬 [P4 — Realisez une etude de sante publique avec Python](https://github.com/DavidDufourData/Projet-4-Realisez-une-etude-de-sante-publique-avec-Python/blob/main/README.md)
+- 🏪 [P6 — Optimisez la gestion des donnees d-une boutique](https://github.com/DavidDufourData/Projet-6-Optimisez-la-gestion-des-donnees-d-une-boutique/blob/main/README.md)
+- 📚 [P9 — Analysez les ventes d-une librairie](https://github.com/DavidDufourData/Projet-9-Analysez-les-ventes-d-une-librairie/blob/main/README.md)
 - 🌍 [P11 — Produisez une etude de marche avec clustering et ACP](https://github.com/DavidDufourData/Projet-11-Produisez-une-etude-de-marche-avec-clustering-et-ACP/blob/main/README.md)
 - 💵 [P12 — Detectez des faux billets](https://github.com/DavidDufourData/Projet-12-Detectez-des-faux-billets/blob/main/README.md)
 
 ### 🗂️ Projets SQL
-- 🛠️ [P3 — Requetez une base de donnees avec SQL](https://github.com/DavidDufourData/Projet-03-Requetez-une-base-de-donnees-avec-SQL/blob/main/README.md)
-- 🏡 [P5 — Creez et utilisez une base de donnees immobiliere avec SQL](https://github.com/DavidDufourData/Projet-05-Creez-et-utilisez-une-base-de-donnees-immobiliere-avec-SQL/blob/main/README.md)
+- 🛠️ [P3 — Requetez une base de donnees avec SQL](https://github.com/DavidDufourData/Projet-3-Requetez-une-base-de-donnees-avec-SQL/blob/main/README.md)
+- 🏡 [P5 — Creez et utilisez une base de donnees immobiliere avec SQL](https://github.com/DavidDufourData/Projet-5-Creez-et-utilisez-une-base-de-donnees-immobiliere-avec-SQL/blob/main/README.md)
 
 ### 🗂️ Projets Power BI
-- 📊 [P7 — Creez un tableau de bord dynamique avec Power BI](https://github.com/DavidDufourData/Projet-07-Creez-un-tableau-de-bord-dynamique-avec-Power-BI/blob/main/README.md)
+- 📊 [P7 — Creez un tableau de bord dynamique avec Power BI](https://github.com/DavidDufourData/Projet-7-Creez-un-tableau-de-bord-dynamique-avec-Power-BI/blob/main/README.md)
 - 💧 [P10 — Faites une etude sur l-acces a l-eau-potable](https://github.com/DavidDufourData/Projet-10-Faites-une-etude-sur-l-acces-a-l-eau-potable/blob/main/README.md)
 - 🧾 [P13 — Creez votre portfolio professionnel](https://github.com/DavidDufourData/Projet-13-Creez-votre-portfolio-professionnel/blob/main/README.md)
 
 ### 🗂️ Autres projets
-- 🚀 [P1 — Prenez en main votre formation](https://github.com/DavidDufourData/Projet-01-Prenez-en-main-votre-formation/blob/main/README.md)
-- 🛍️ [P2 — Analysez les ventes d-un e-commerce](https://github.com/DavidDufourData/Projet-02-Analysez-les-ventes-d-un-e-commerce/blob/main/README.md)
-- ⚖️ [P8 — Analysez des indicateurs de l-egalite femmes hommes](https://github.com/DavidDufourData/Projet-08-Analysez-des-indicateurs-de-l-egalite-femmes-hommes/blob/main/README.md)
+- 🚀 [P1 — Prenez en main votre formation](https://github.com/DavidDufourData/Projet-1-Prenez-en-main-votre-formation/blob/main/README.md)
+- 🛍️ [P2 — Analysez les ventes d-un e-commerce](https://github.com/DavidDufourData/Projet-2-Analysez-les-ventes-d-un-e-commerce/blob/main/README.md)
+- ⚖️ [P8 — Analysez des indicateurs de l-egalite femmes hommes](https://github.com/DavidDufourData/Projet-8-Analysez-des-indicateurs-de-l-egalite-femmes-hommes/blob/main/README.md)
 
 ---
 
